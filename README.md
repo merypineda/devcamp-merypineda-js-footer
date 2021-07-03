@@ -4,12 +4,12 @@
 Install with the command:
 
 ```
-npm intall --save devcamp-mp-js-footer
+npm intall --save devcamp-merypineda-js-footer
 ```
 Add to the javascript Project with the fallowing code:
 
 ```javascript
-import { footer } from 'devcamp-mp-js-footer';
+import { footer } from 'devcamp-merypineda-js-footer';
 
 footer('some name')
 ```
