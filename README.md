@@ -1,5 +1,5 @@
 ## Devcam JS footer
-> This should be use in the fallowing mannar
+> This should be use in the fallowing manner
 
 Install with the command:
 
