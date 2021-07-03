@@ -4,7 +4,7 @@
 Install with the command:
 
 ```
-npm intall --save devcamp-js-footer
+npm intall --save devcamp-mp-js-footer
 ```
 Add to the javascript Project with the fallowing code:
 
