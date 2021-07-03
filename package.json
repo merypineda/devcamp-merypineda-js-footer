@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-mp-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generagted for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merypineda/devcamp-mp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Mery Pineda <meryp2@icloud.com> (https://www.npmjs.com/~meryp2)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/merypineda/devcamp-mp-js-footer/issues"
+  },
+  "homepage": "https://github.com/merypineda/devcamp-mp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
